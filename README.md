@@ -2,7 +2,7 @@
 
 If you are appearning for CKA, CKAD and CKS exam, make use of the discount codes.
 
-| Exam  | Discount Code   | Redeem Here  |   
+| Exam  | Discount Code   | Redeem Here  |   |
 |---|---|---|---|
 | CKA   | DCUBEOFFER  | 15%  | [Redeem CKA Offer](https://kube.promo/cka)|
 | CKAD  |  DCUBEOFFER | 15%  | [CKAD Exam Registration Link](https://kube.promo/ckad) |
